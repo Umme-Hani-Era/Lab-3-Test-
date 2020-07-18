@@ -1,6 +1,0 @@
-git innit
-git congif user.
-git add
-	git add --all
-git commit -m ""
-git checkout
